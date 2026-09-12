@@ -1,0 +1,10 @@
+{
+  "name": "pooja-namkeen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium Maharashtrian namkeen brand website for Pooja Namkeen, Sillod. Pure HTML/CSS/JS, GitHub Pages ready.",
+  "scripts": {
+    "dev": "npx --yes serve -l 3000 .",
+    "start": "npx --yes serve -l 3000 ."
+  }
+}

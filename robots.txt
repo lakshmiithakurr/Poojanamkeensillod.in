@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laxmi2202.github.io/Pooja-Namkeen-Sillod/sitemap.xml
